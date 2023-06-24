@@ -1,0 +1,47 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #ffffff;
+  width: 50%;
+  height: 60%;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+}
+
+.heading {
+  color: #0f172a;
+  font-weight: bolder;
+  margin-top: 40px;
+  font-size: 40px;
+}
+.image {
+  width: 50%;
+}
+
+.img-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  margin-top: 5%;
+}
+
+.pera {
+  color: #1e293b;
+  font-size: 18px;
+}
+
+.love-image {
+  width: 8%;
+  height: 12%;
+  margin-top: 50px;
+}
